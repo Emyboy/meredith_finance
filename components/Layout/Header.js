@@ -51,8 +51,8 @@ export default function Header() {
                 {" "}
                 <a class="uk-logo" href="index.html">
                   <img
-                    src="file:///C:/web/templates/eche_invest/eche_invest/www.indonez.com/html-demo/Monee/img/logo.svg"
-                    data-src="img/logo.svg"
+                    src="/assets/logo-horizontal.png"
+                    data-src="/assets/logo-horizontal.png"
                     width="120"
                     height="54"
                     alt="logo"
