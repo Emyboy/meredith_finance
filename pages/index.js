@@ -3,6 +3,7 @@ import Head from "next/head";
 import Layout from "../components/Layout/Layout";
 import AboutUs from "../components/Home/AboutUs";
 import Stocks from "../components/Home/Stocks";
+import WhatComesNext from "../components/Home/WhatComesNext";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
         </Head>
         <AboutUs />
         <Stocks />
+        <WhatComesNext />
       </Layout>
   );
 }
